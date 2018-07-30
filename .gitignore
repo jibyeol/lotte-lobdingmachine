@@ -3,3 +3,7 @@
 *.jar
 /.metadata
 */.settings
+
+
+# 각자 설정파일이 달라서 무시
+*-server/WebContent/config/lemp_configuration.xml
